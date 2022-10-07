@@ -27,7 +27,7 @@ source .env
 Then build the image
 
 ```bash
-docker-conmpose build
+docker-compose build
 ```
 
 Do the init
